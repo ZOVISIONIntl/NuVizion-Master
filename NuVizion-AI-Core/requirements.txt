@@ -1,0 +1,2 @@
+# requirements.txt
+# This is a placeholder for the requirements.txt in the NuVizion-AI-Core
