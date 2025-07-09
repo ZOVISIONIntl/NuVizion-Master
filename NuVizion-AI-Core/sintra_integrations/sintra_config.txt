@@ -1,0 +1,2 @@
+# sintra_config.txt
+# This is a placeholder for the sintra_config.txt in the NuVizion-AI-Core/sintra_integrations
