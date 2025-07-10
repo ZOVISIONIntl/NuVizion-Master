@@ -1,0 +1,1 @@
+```js\n// Minimal local API wrapper to talk to Dawn via Ollama\nimport { spawn } from 'child_process';\nimport express from 'express';\n\nconst app = express();\napp.use(express.json());\n\napp.post('/ask', (req, res) => {\n const userPrompt = req.body.prompt

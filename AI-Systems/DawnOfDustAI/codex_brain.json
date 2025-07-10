@@ -1,0 +1,1 @@
+json\n{\n \"reasoning_pipeline\": [\n \"analyze_prompt\",\n \"consult_memory\",\n \"draft_response\",\n \"tone_filter\",\n \"deliver_response\"\n ],\n \"allowed_tools\": [\"search\", \"python\", \"ipfs\"],\n \"safety\": {\n \"refuse_list\": [\"violence\", \"self-harm\", \"extremism\"]\n }\n}\n
